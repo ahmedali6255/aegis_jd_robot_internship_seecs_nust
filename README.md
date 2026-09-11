@@ -55,7 +55,7 @@ Python (this module) communicates with the robot hardware via file-based IPC wit
    ```
    pip install -r requirements.txt
    ```
-2. Copy `_env.example` to `.env` and add your own Gemini API keys:
+2. Copy `.env.example` to `.env` and add your own Gemini API keys:
    ```
    GEMINI_API_KEY_SEARCH=your_key_here
    GEMINI_API_KEY_LOCATION=your_key_here
